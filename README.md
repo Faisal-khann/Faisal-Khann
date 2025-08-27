@@ -1,24 +1,24 @@
-# Hey there, I’m Faisal Khan! Glad you’re here 🚀
+# Hey there, I’m Faisal Khan! Glad you’re here 
 ---
 
 Welcome to my little corner of GitHub!  
 I’m passionate about growing in my career as a **Data Scientist** 📊, picking up new tech skills, and making work life a *little* less overwhelming (and a lot more fun).  
 
-Here, you'll find:
+Here, you’ll discover:  
 
-- **Projects** I’m building or contributing to  
-- **Things I’ve learned** while juggling work, deadlines, and debugging  
-- **Bits of inspiration** for anyone trying to survive—and thrive—in the corporate jungle  
+- 🚀 **Projects** I’m building, contributing to, and experimenting with  
+- 📚 **Lessons & insights** gained from real-world problem-solving and continuous learning  
+- 💡 **Ideas & inspiration** for fellow learners and professionals navigating the data & tech journey  
 
 ---
 
 ## Tech Stack
 - **Languages & Databases:** Python, SQL, MySQL, PostgreSQL, SQL Server 
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-<!--- **Machine Learning**: Supervised & Unsupervised Learning Algorithms, Feature Engineering, Model Evaluation, Statistics --> 
 - **Data Analytics & BI Tools:** Power BI, Advanced Excel, Data Modeling, ETL, EDA, Data Management
 - ***Version Control & Tools:** Git, GitHub, Jupyter Notebook, Canva  
-- **Other Interests:** Machine Learning, API Integration, Web Scraping  
+- **Other Interests:** Machine Learning, API Integration, Web Scraping
+- <!--- **Machine Learning**: Supervised & Unsupervised Learning Algorithms, Feature Engineering, Model Evaluation, Statistics --> 
 
 ---
 
