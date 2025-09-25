@@ -8,37 +8,24 @@ Here, you’ll discover:
 
 - 🚀 **Projects** I’m building, contributing to, and experimenting with  
 - 📚 **Lessons & insights** gained from real-world problem-solving and continuous learning  
-- 💡 **Ideas & inspiration** for fellow learners and professionals navigating the data & tech journey  
+- 💡 **Ideas & inspiration** for fellow learners and professionals navigating the data & tech journey
 
----
-
-## ⚙️ Tech Stack
-
-- **Languages & Databases:**  
-  Python | SQL | MySQL | PostgreSQL | SQL Server  
-
-- **Libraries & Frameworks:**  
-  Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn  
-
-- **Data Analytics & BI Tools:**  
-  Power BI | Advanced Excel | Data Modeling | ETL | EDA | Data Management  
-
-- **Machine Learning:**  
-  Supervised & Unsupervised Learning | Feature Engineering | Model Evaluation  
-
-- **Natural Language Processing (NLP):**  
-  Text Preprocessing | Feature Extraction | Embedding Models  
-
-- **Version Control & Tools:**  
-  Git | GitHub | Jupyter Notebook | Canva  
-
-
----
-
-## 🌐 Connect With Me  
+## <stong><em>Connect With Me </em>
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-8E24AA.svg?logo=google-chrome&logoColor=white)](https://personal-portfolio-alpha-lake.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/faisalkhan_.23/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-khan23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamFkhaan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thisside.faisalkhan@gmail.com)
 
-📂 **Portfolio:** [Personal-Portfolio](https://personal-portfolio-alpha-lake.vercel.app/) <br> 
+---
+
+## Tech Stack  
+
+| Category                         | Tools / Skills                                                                 |
+|----------------------------------|--------------------------------------------------------------------------------|
+| *Languages & Databases*       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
+| *Libraries & Frameworks*      | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
+| *Data Analytics & BI Tools*   | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-FF6F00?logo=apache-airflow&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-4285F4?logo=google-analytics&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-006699?logo=databricks&logoColor=white) |
+| *Machine Learning*            | ![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange) ![Supervised](https://img.shields.io/badge/Supervised-006600?logo=python&logoColor=white) ![Unsupervised](https://img.shields.io/badge/Unsupervised-9900cc?logo=python&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-ff9900?logo=python&logoColor=white) |
+| *Natural Language Processing*  | ![NLP](https://img.shields.io/badge/NLP-CC0000?logo=googlenlp&logoColor=white) ![Tokenization](https://img.shields.io/badge/Tokenization-1E88E5?logo=python&logoColor=white) ![TFIDF](https://img.shields.io/badge/TF--IDF-009688?logo=python&logoColor=white) ![Word2Vec](https://img.shields.io/badge/Word2Vec-8E24AA?logo=python&logoColor=white) |
+| *Version Control & Tools*      | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) |
 
 ---
 
