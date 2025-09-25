@@ -12,13 +12,26 @@ Here, you’ll discover:
 
 ---
 
-## Tech Stack
-- **Languages & Databases:** Python, SQL, MySQL, PostgreSQL, SQL Server 
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Data Analytics & BI Tools:** Power BI, Advanced Excel, Data Modeling, ETL, EDA, Data Management
-- ***Version Control & Tools:** Git, GitHub, Jupyter Notebook, Canva  
-- **Other Interests:** Machine Learning, API Integration, Web Scraping
-<!--- **Machine Learning**: Supervised & Unsupervised Learning Algorithms, Feature Engineering, Model Evaluation, Statistics --> 
+## ⚙️ Tech Stack
+
+- **Languages & Databases:**  
+  Python | SQL | MySQL | PostgreSQL | SQL Server  
+
+- **Libraries & Frameworks:**  
+  Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn  
+
+- **Data Analytics & BI Tools:**  
+  Power BI | Advanced Excel | Data Modeling | ETL | EDA | Data Management  
+
+- **Machine Learning:**  
+  Supervised & Unsupervised Learning | Feature Engineering | Model Evaluation  
+
+- **Natural Language Processing (NLP):**  
+  Text Preprocessing | Feature Extraction | Embedding Models  
+
+- **Version Control & Tools:**  
+  Git | GitHub | Jupyter Notebook | Canva  
+
 
 ---
 
