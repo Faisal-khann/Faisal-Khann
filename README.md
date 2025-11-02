@@ -16,7 +16,7 @@ Here, you’ll discover:
 
 ---
 
-## Tech Stack  
+## <em>Tech Stack</em>
 
 | Category                         | Tools / Skills                                                                 |
 |----------------------------------|--------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ Here, you’ll discover:
 
 ---
 
-## GitHub Stats
+## <em>GitHub Stats</em>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-khann&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
