@@ -6,9 +6,9 @@ I’m passionate about growing in my career as a **Data Scientist**, picking up 
 
 Here, you’ll discover:  
 
-- 🚀 **Projects** I’m building, contributing to, and experimenting with  
-- 📚 **Lessons & insights** gained from real-world problem-solving and continuous learning  
-- 💡 **Ideas & inspiration** for fellow learners and professionals navigating the data & tech journey
+- **Projects** I’m building, contributing to, and experimenting with  
+- **Lessons & insights** gained from real-world problem-solving and continuous learning  
+- **Ideas & inspiration** for fellow learners and professionals navigating the data & tech journey
 
 ## <stong><em>Connect With Me </em>
 [![Portfolio](https://img.shields.io/badge/Personal_Portfolio-8E24AA.svg?logo=google-chrome&logoColor=white)](https://personal-portfolio-alpha-lake.vercel.app/)
@@ -40,8 +40,8 @@ Here, you’ll discover:
 </p>
 
 ---
-Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🤗  
+Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place!
 
 Let’s connect, learn, and grow together—one repo at a time.  
-You bring the snacks, I’ll bring the code 🍪💻
+You bring the snacks, I’ll bring the code
 
